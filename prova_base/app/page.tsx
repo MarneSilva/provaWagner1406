@@ -8,7 +8,7 @@ export default function Home() {
           Home page
       </h1>
       <div className="items-center justify-center font-light">
-      <Link href='/login'>Logar</Link>
+      <Link href='/recipes'>Receitas</Link>
       </div>
     </div>
   );
